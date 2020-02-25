@@ -3,4 +3,4 @@ Retrieve signal from specific region in [scNMT data](https://www.nature.com/arti
 
 
 
-<img src="fig1.png" width="400" height="300" />
+<img src="fig1.png" width="400" height="400" />
